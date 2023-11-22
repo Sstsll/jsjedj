@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding: 0;
+    background:#000;
+}
+
+p {
+    font-size:8px;
+    line-height:8px;
+    text-align:justify;
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-position: center;
+    background: url("lovee.jpeg") no-repeat center/cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgb(225, 225, 255, -0);
+}
